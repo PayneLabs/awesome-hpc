@@ -19,6 +19,7 @@
 ## Beginner
 
 - [A Beginners' Guide to High-Performance Computing](http://www.shodor.org/petascale/materials/UPModules/beginnersGuideHPC/)
+- [HPC in a Day](https://github.com/psteinb/hpc-in-a-day)
 
 ## Intel Xeon Phi
 
